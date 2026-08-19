@@ -1,0 +1,29 @@
+### Gradle
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+gradle.properties
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Metals (Java LSP)
+.metals/
+
+### Eclipse ###
+**/bin/
+**/.classpath
+**/.project
+**/.settings/
+
+### VS Code
+.vscode/
+
+### Desktop Services Store
+.DS_Store
+
+### Obsidian
+.obsidian
